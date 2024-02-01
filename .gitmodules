@@ -1,0 +1,4 @@
+[submodule "chiseltest"]
+	path = chiseltest
+	url = git@github.com:mvanbeirendonck/chiseltest.git
+	branch = 5.x
